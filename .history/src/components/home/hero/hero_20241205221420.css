@@ -1,0 +1,12 @@
+#deduce{
+    background-image: url(../../../assets/images/deduce.png);
+    background-repeat: no-repeat;
+    padding: 15px;
+    max-width: 336px;
+    -webkit-border-radius:16px ;
+    -moz-border-radius:16px ;
+    -ms-border-radius:16px ;
+    -o-border-radius:16px ;
+    border-radius:16px ;
+    font-weight: 400;
+}

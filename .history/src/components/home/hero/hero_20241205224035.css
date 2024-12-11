@@ -1,0 +1,53 @@
+#deduce {
+  background-image: url(../../../assets/images/deduce.png);
+  background-repeat: no-repeat;
+  padding: 15px;
+  max-width: 182px;
+  /* min-width:165px; */
+  height: 271px;
+  -webkit-border-radius: 16px;
+  -moz-border-radius: 16px;
+  -ms-border-radius: 16px;
+  -o-border-radius: 16px;
+  border-radius: 16px;
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+}
+#design {
+  background-image: url(../../../assets/images/design.png);
+  background-repeat: no-repeat;
+  padding: 15px;
+  max-width: 89px;
+  /* min-width:165px; */
+  height: 271px;
+  font-size: 6px;
+  -webkit-border-radius: 16px;
+  -moz-border-radius: 16px;
+  -ms-border-radius: 16px;
+  -o-border-radius: 16px;
+  border-radius: 16px;
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+}
+#develop {
+  background-image: url(../../../assets/images/develop.png);
+  background-repeat: no-repeat;
+  padding: 15px;
+  max-width: 89px;
+  /* min-width:165px; */
+  height: 271px;6px
+  font-size: ;
+  -webkit-border-radius: 16px;
+  -moz-border-radius: 16px;
+  -ms-border-radius: 16px;
+  -o-border-radius: 16px;
+  border-radius: 16px;
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+}
+@media (min-width: 768px) {
+  /* # */
+}

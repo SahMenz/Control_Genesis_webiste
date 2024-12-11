@@ -1,0 +1,63 @@
+/* BACKGROUND COLOR */
+.trans-bg {
+  background-color: transparent;
+}
+.bg-00{
+    background-color: black
+}
+.bg-ff{
+    background-color: white;
+}
+.bg-d9{
+    background-color: #D9D9D9;
+}
+
+
+
+/* TEXT COLOR */
+.trans-color {
+  color: transparent;
+}
+.txt-00 {
+  color: black;
+}
+.txt-ff {
+  color: white;
+}
+.txt-fa{
+    color:#FAFAFF;
+}
+.txt-02{
+    color: #020202;
+}
+
+
+/* FONT WEIGHT */
+.fw-300{
+    font-weight: 300;
+}
+.fw-400{
+    font-weight: 400;
+}
+.fw-500{
+    font-weight: 500;
+}
+.fw-600{
+    font-weight: 600;
+}
+.fw-700{
+    font-weight: 700;
+}
+.fw-800{
+    font-weight: 800;
+}
+.fw-900{
+    font-weight: 900;
+}
+
+
+
+/* EXTRA */
+.opa-20{
+    opacity: 20%;
+}
