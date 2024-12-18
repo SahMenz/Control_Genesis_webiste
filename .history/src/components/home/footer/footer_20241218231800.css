@@ -1,0 +1,7 @@
+.footerContainer{
+    padding-top: 80px;
+    background-image: url(../../../assets/images/backgroundPattern.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

@@ -8,17 +8,15 @@ import Testimonials from "./testimonials";
 
 function Home() {
   return (
-    <>
-      <div className="bg-02 spacing-50">
-        <Navigation />
-        <Hero />
-        <DigitalSolution />
-        <DrivingSuccess />
-        <Testimonials />
-        <Faq />
-      </div>
-      <div className="bg-02"><Footer /></div>
-    </>
+    <div className="bg-02 spacing-50">
+      <Navigation />
+      <Hero />
+      <DigitalSolution />
+      <DrivingSuccess />
+      <Testimonials />
+      <Faq />
+      <Footer />
+    </div>
   );
 }
 

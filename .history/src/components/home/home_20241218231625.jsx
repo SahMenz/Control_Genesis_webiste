@@ -17,7 +17,7 @@ function Home() {
         <Testimonials />
         <Faq />
       </div>
-      <div className="bg-02"><Footer /></div>
+      <div className="bg-02 spacing-50"><Footer /></div>
     </>
   );
 }
