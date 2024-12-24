@@ -1,0 +1,12 @@
+.updatedGap{
+    height: 55px;
+}
+.servicesAdvantageContainer{
+    display: none;
+}
+
+@media (min-width: 768px) {
+    .updatedGap{
+        height: 220px;
+    }
+}

@@ -1,0 +1,14 @@
+.stayConnectedBackground{
+    background-image: url(../../../assets/images/stayConnected.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    -webkit-border-radius: 40px;
+    -moz-border-radius: 40px;
+    -ms-border-radius: 40px;
+    -o-border-radius: 40px;
+    border-radius: 40px;
+}
+.foundersImage{
+    max-width:374px;
+    width: 50vw;
+}

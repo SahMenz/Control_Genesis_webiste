@@ -1,0 +1,9 @@
+.updatedGap{
+    height: 51px;
+}
+
+@media (min-width: 768px) {
+    .updatedGap{
+        height: 240px;
+    }
+}
