@@ -17,7 +17,7 @@ function AboutUsHero() {
           </div>
         </div>
         <div className="mt-5 d-flex flex-column">
-          <div className="align-self-center">
+          <div>
             <img src={drivenByResult} style={{width:"70vw"}}/>
           </div>
           <div
