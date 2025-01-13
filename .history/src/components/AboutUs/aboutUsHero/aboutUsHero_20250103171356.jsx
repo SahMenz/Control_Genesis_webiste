@@ -21,7 +21,7 @@ function AboutUsHero() {
             <img src={drivenByResult} style={{width:"70vw"}}/>
           </div>
           <div
-            className="fs-19 fw-400 alignSelfEnd mt-4"
+            className="fs-19 fw-400 align-self-end mt-4"
             style={{ maxWidth: "605px" }}
           >
             At Control Genesis, we deliver excellence through strategic design,
